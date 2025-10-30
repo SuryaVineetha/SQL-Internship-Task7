@@ -52,4 +52,4 @@ MySQL Workbench
 
  View definitions and usage example – SQL code for creating and using views
 
-README.md – Explanation of what was done in the task
+README.md – Explanation of what was done in the task.
