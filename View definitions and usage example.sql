@@ -35,6 +35,7 @@ FROM Customer;
 -- This view can be given to customer support team or interns
 -- They can query basic info without accessing private data.
 -- ----------------------------------------------------------------------------
+-- 3. Giving and restricting access for users
 -- Create two sample users (for example)
 CREATE USER 'admin_user'@'localhost' IDENTIFIED BY 'admin123';
 CREATE USER 'intern_user'@'localhost' IDENTIFIED BY 'intern123';
